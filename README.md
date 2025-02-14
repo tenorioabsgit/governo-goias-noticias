@@ -78,12 +78,4 @@ Sys.sleep(3)  # Espera 3 segundos antes de carregar a próxima página
 
 ---
 
-## 👨‍💻 Autor
-
-👤 **José Tenório Abs Junior**  
-📧 [Seu Email]  
-🏛 **IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados**
-
----
-
 🚀 **Pronto para coletar dados!** Se tiver dúvidas, me avise! 😊
